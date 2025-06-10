@@ -1,4 +1,4 @@
-# Banco Tailyz 🏦
+# Banco Taiilyz 🏦
 
 Este projeto foi desenvolvido como parte do desafio do **Bootcamp Santander 2025 - Back-End com Python**. 
 Ele simula um sistema bancário simples com funcionalidades básicas de:
@@ -15,7 +15,7 @@ Ele simula um sistema bancário simples com funcionalidades básicas de:
 ## 🚀 Como executar
 
 1. Clone o repositório:
-   git clone https://github.com/taiilyz/banco_taiilyz.git
+   git clone https://github.com/Taiilyz/banco_taiilyz.git
 2. Acesse a pasta do projeto:
    cd banco_taiilyz
 3. Execute o programa:
